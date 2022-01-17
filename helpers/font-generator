@@ -1,0 +1,12 @@
+{
+  "name": "Font generator",
+  "desc": "Generate unicodes fonts quickly",
+  "url": "https://font-generator.io/",
+  "tags": [
+    "Misc"
+  ],
+  "maintainers": [
+    "yamidevs"
+  ],
+  "addedAt": "2022-01-17"
+}
